@@ -1,4 +1,4 @@
-# about DayTradeTrigger
+# about TradeTrigger
 
 기능
 1. AP, Reuters, Bloomberg와 Yahoo Finance, Benzinga를 크롤링하여 세계 정세 파악
